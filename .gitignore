@@ -3,4 +3,6 @@
 
 *.class
 
+*/out/*
+
 *.kotlin_module
