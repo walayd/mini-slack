@@ -1,2 +1,2 @@
-# mini-slack
+# server side
 RMI - JMS
