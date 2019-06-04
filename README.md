@@ -1,2 +1,0 @@
-# mini-slack
-RMI - JMS
