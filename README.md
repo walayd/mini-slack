@@ -21,12 +21,12 @@ Running instructions
 ## Structure
 
 We have 2 parts :
-- [Server Side](#https://github.com/lw507632/mini-slack/tree/master/serverSide/README.md)
-- [Client Side](#https://github.com/lw507632/mini-slack/tree/master/clientSide/README.md)
+- [Server Side](https://github.com/lw507632/mini-slack/tree/master/serverSide/README.md)
+- [Client Side](https://github.com/lw507632/mini-slack/tree/master/clientSide/README.md)
 
 ## Contributers
 
-The 2 contributors are [Walid Islem Larabi](#https://github.com/lw507632) and [Théo Bonnet](#https://github.com/bonnettheo)
+The 2 contributors are [Walid Islem Larabi](https://github.com/lw507632) and [Théo Bonnet](https://github.com/bonnettheo)
 
 ## Thanks
 
