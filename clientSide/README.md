@@ -1,4 +1,4 @@
-<h1 align="center">Mini-Slack</h1>
+<h1 align="center">Client Side</h1>
   <br>
   <br>
 RMI - JMS
@@ -11,23 +11,16 @@ Project
 
 - [Presentation](#presentation)
 - [Quick start](#quick-start)
-- [Structure](#structure)
 - [Contributers](#contributers)
 - [Thanks](#thanks)
 
 ## Presentation
 
-Present the project
+present the client side
 
 ## Quick start
 
 Running instructions
-
-## Structure
-
-We have 2 parts :
-- [Server Side](https://github.com/lw507632/mini-slack/tree/master/serverSide/README.md)
-- [Client Side](https://github.com/lw507632/mini-slack/tree/master/clientSide/README.md)
 
 ## Contributers
 
